@@ -29,7 +29,9 @@ conda install pytictoc
 
 If you have an older version of python3, install the module **tictoc** instead.
 
-## Run in terminal
+## Run one of two ways
+
+### Run in terminal
 
 ```bash
 ./qVoiceTyping
@@ -37,7 +39,7 @@ If you have an older version of python3, install the module **tictoc** instead.
 
 Enter control-D to interupt the quiz.
 
-## Run in Jupyter
+### Run in Jupyter
 
 The advantage of this approach is that results can be stored in the Notebook.
 
