@@ -8,11 +8,20 @@ Recall of these commands fades in several days after first exposure to them.
 The recall decreases more slowly with repeated exposure.
 This quiz supports improving the recall.
 
+
 # Content
 The quiz has 92 questions.
 The answers are generally obvious from the question.
 
 A PDF version of the quiz is provided for those who are unable to run the interactive quiz.
+
+
+## Features
+
+- randomizes questions on each run
+- reports number of correct answers
+- reports time spent on quiz
+
 
 ## Recommeded usage
 Run through questions repeatedly until recall is better than 90 percent and then get back to work.
