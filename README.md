@@ -3,13 +3,13 @@
 ## Purpose
 Interactive quiz to fresh recall of the commands used in Voice Typing in Google Docs.
 Recall of these commands fades in several days after first exposure to them.
-The recall falls more slowly with repeted exposure.
-This quiz supports the improving the recall.
+The recall decreases more slowly with repeated exposure.
+This quiz supports improving the recall.
 
 The quiz has 92 questions.
 The answers are generally obvious from the question.
 
-A PDF version of the quiz is supplied for those who are not able to run the interactive quiz.
+A PDF version of the quiz is provided for those who are unable to run the interactive quiz.
 
 ## Prerequisites
 You need a recent version of Python3.
@@ -29,7 +29,7 @@ conda install pytictoc
 
 If you have an older version of python3, install the module **tictoc** instead.
 
-## Run one of two ways
+## Run one of two ways.
 
 You will be asked to enter a number between 1 and 1. Enter 1.
 Then the interactive quiz will run.
@@ -47,7 +47,7 @@ Use in Jupyter Notebook, JupyterLab, the JupyterLab.app, or nteract.app.
 Probably works in Colab too.
 Select the approprite Python kernel that taps into the Python interpreter with pytictoc installed.
 
-The advantage of this approach is that results can be stored in the Notebook.
+The advantages of this approach is that results can be stored in the Notebookand and its.
 
 Check on present working directory in Jupyter by entering the following in a code cell.
 
@@ -58,7 +58,6 @@ Check on present working directory in Jupyter by entering the following in a cod
 The file qVoiceTyping.py must be in the pwd or you must give the full file path to qVoiceTyping.py.
 Enter the following in another code cell.
 
+```bash
 %run -i "qVoiceTyping.py"
-
-
 ```
