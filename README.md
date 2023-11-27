@@ -2,14 +2,25 @@
 
 ## Purpose
 Interactive quiz to fresh recall of the commands used in Voice Typing in Google Docs.
+Voice Typing is found under the Tools pulldown menu.
+
 Recall of these commands fades in several days after first exposure to them.
 The recall decreases more slowly with repeated exposure.
 This quiz supports improving the recall.
 
+# Content
 The quiz has 92 questions.
 The answers are generally obvious from the question.
 
 A PDF version of the quiz is provided for those who are unable to run the interactive quiz.
+
+## Recommeded usage
+Run through questions repeatedly until recall is better than 90 percent and then get back to work.
+One pass may take 10 minutes initially. 
+After several passes, you will be able to use Voice Typing in an agile fashion.
+Retaking the every 2-3 days five times were reduce the decay of your recall of the commands.
+Unfortunately, most of us are too busy for such a disciplined approach.
+
 
 ## Disclaimer
 This is a programming tool, not an educational tool.
