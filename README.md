@@ -11,6 +11,12 @@ The answers are generally obvious from the question.
 
 A PDF version of the quiz is provided for those who are unable to run the interactive quiz.
 
+## Disclaimer
+This is a programming tool, not an educational tool.
+It provides no explanations and no context.
+It just improves recall of commands in a rote manner.
+
+
 ## Prerequisites
 You need a recent version of Python3.
 You also need one external module.
