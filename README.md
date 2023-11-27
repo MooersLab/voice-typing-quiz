@@ -40,17 +40,18 @@ It just improves recall of commands in a rote manner.
 ## Prerequisites
 You need a recent version of Python3.
 You also need one external module.
-Install the module **pytictoc** with pip or conda.
+Install the module **pytictoc** with pip.
 
 ```bash
 pip install --user --upgrade pytictoc
 ```
 
-or with conda
+or with a conda environement
 
 ```bash
 conda activate <env name>
-conda install pytictoc
+pip install --upgrade pip 
+pip install pytictoc
 ```
 
 If you have an older version of python3, install the module **tictoc** instead.
