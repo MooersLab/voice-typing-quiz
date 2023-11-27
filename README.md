@@ -60,7 +60,7 @@ Then the interactive quiz will run.
 Enter control-D to interupt the quiz.
 
 ### Run in Jupyter
-Use in Jupyter Notebook, JupyterLab, the JupyterLab.app, or nteract.app.
+Use in Jupyter Notebook, JupyterLab, [JupyterLab.app](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a), or nteract.app.
 Probably works in Colab too.
 Select the approprite Python kernel that taps into the Python interpreter with pytictoc installed.
 
