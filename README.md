@@ -40,6 +40,8 @@ If you have an older version of python3, install the module **tictoc** instead.
 Enter control-D to interupt the quiz.
 
 ### Run in Jupyter
+Use in Jupyter Notebook, JupyterLab, the JupyterLab.app, or nteract.app.
+Probably works in Colab too.
 
 The advantage of this approach is that results can be stored in the Notebook.
 
