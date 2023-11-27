@@ -31,6 +31,9 @@ If you have an older version of python3, install the module **tictoc** instead.
 
 ## Run one of two ways
 
+You will be asked to enter a number between 1 and 1. Enter 1.
+Then the interactive quiz will run.
+
 ### Run in terminal
 
 ```bash
@@ -42,16 +45,20 @@ Enter control-D to interupt the quiz.
 ### Run in Jupyter
 Use in Jupyter Notebook, JupyterLab, the JupyterLab.app, or nteract.app.
 Probably works in Colab too.
+Select the approprite Python kernel that taps into the Python interpreter with pytictoc installed.
 
 The advantage of this approach is that results can be stored in the Notebook.
 
-Check on present working directory in Jupyter.
+Check on present working directory in Jupyter by entering the following in a code cell.
 
 ```bash
 !pwd
 ```
 
 The file qVoiceTyping.py must be in the pwd or you must give the full file path to qVoiceTyping.py.
+Enter the following in another code cell.
 
 %run -i "qVoiceTyping.py"
+
+
 ```
