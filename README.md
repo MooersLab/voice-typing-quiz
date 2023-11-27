@@ -47,7 +47,7 @@ Use in Jupyter Notebook, JupyterLab, the JupyterLab.app, or nteract.app.
 Probably works in Colab too.
 Select the approprite Python kernel that taps into the Python interpreter with pytictoc installed.
 
-The advantages of this approach is that results can be stored in the Notebookand and its.
+The advantages of this approach is that results can be stored in the Notebookand and its more fun.
 
 Check on present working directory in Jupyter by entering the following in a code cell.
 
